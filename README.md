@@ -13,7 +13,8 @@ Judul
 
 Dasar Teori
 
-    - PWM atau Pulse Width Modulation adalah metode untuk mengurangi daya rata-rata yang dikirimkan oleh sinyal listrik, dengan memotongnya secara efektif menjadi bagian-bagian       terpisah.
+    - PWM atau Pulse Width Modulation adalah metode untuk mengurangi daya rata-rata yang dikirimkan oleh sinyal listrik, 
+      dengan memotongnya secara efektif menjadi bagian-bagian       terpisah.
 
 Tujuan
 
