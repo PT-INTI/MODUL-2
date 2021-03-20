@@ -9,7 +9,7 @@ Laporan Praktikum
 
 Judul
 
-  •	Sistem Kendali PWM (Pulse Width Modulation)
+  Sistem Kendali PWM (Pulse Width Modulation)
 
 Dasar Teori
 
