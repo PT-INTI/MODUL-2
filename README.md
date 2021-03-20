@@ -3,6 +3,7 @@ Modul 2
 Teori Dasar PWM
 
 Dhimas Pandu Yogaswara - 6702194054 - PT-INTI
+
 Muhammad Adhri Basari - 6702190028 - PT-INTI
 
 Laporan Praktikum
